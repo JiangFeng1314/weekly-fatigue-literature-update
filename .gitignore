@@ -1,0 +1,11 @@
+# local secrets and generated drafts
+wechat_mp_config.json
+config.json
+wechat_draft/
+wechat_draft_*/
+*.payload.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/

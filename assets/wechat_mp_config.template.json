@@ -1,0 +1,12 @@
+{
+  "appid": "<SET_ME_APPID>",
+  "secret": "<SET_ME_APPSECRET>",
+  "author": "疲劳寿命文献周报",
+  "title": "每周疲劳寿命文献更新",
+  "digest": "本周新增疲劳寿命相关文献速览与点评，供人工复核后发布。",
+  "content_source_url": "",
+  "need_open_comment": 0,
+  "only_fans_can_comment": 0,
+  "thumb_media_id": "",
+  "api_timeout_seconds": 15
+}
