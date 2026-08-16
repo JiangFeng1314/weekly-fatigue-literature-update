@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weekly Fatigue Literature Update"
+  short_description: "Import weekly fatigue literature into Zotero locally"
+  default_prompt: "Use $weekly-fatigue-literature-update to run the weekly Google Drive to local Zotero literature sync, including deduplication, classification, PDF attachment, and verification."

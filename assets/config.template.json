@@ -1,0 +1,48 @@
+{
+  "zotero_base_url": "http://127.0.0.1:23119",
+  "zotero_exe": "D:\\software\\Zotero\\zotero.exe",
+  "zotero_root_collection": "00-博士论文综述文献",
+  "zotero_root_collection_key": "MNEMAYZC",
+  "collection_map": {
+    "1": {
+      "name": "1-物理约束机器学习疲劳寿命预测",
+      "key": "SH545K65",
+      "target_id": "C78"
+    },
+    "2": {
+      "name": "2-疲劳损伤演化与寿命预测模型",
+      "key": "FY9H2XUP",
+      "target_id": "C79"
+    },
+    "3": {
+      "name": "3-轨道车辆构架/部件疲劳、载荷谱与实测服役数据",
+      "key": "JSVTV99R",
+      "target_id": "C80"
+    },
+    "4": {
+      "name": "4-加速度/状态监测驱动的间接疲劳预测",
+      "key": "DXHKVS53",
+      "target_id": "C81"
+    },
+    "5": {
+      "name": "5-多轴疲劳、焊接接头、断裂与裂纹扩展",
+      "key": "SZW8FRJ3",
+      "target_id": "C82"
+    },
+    "6": {
+      "name": "6-多保真、迁移学习、不确定性与小样本疲劳建模",
+      "key": "HBBM7GV4",
+      "target_id": "C83"
+    }
+  },
+  "google_drive_inbox": "F:/我的云端硬盘/Zotero周报同步/待入库",
+  "google_drive_archive": "F:/我的云端硬盘/Zotero周报同步/已处理",
+  "poll_timeout_seconds": 120,
+  "request_timeout_seconds": 20,
+  "download_timeout_seconds": 60,
+  "batch_json_pattern": "Zotero_本周入库清单_{date}.json",
+  "batch_ris_pattern": "Zotero_本周入库_{date}.ris",
+  "collection_write_strategy": "connector_only",
+  "python_exe": "<SET_ME_PYTHON_EXE_PATH>",
+  "powershell_exe": "<SET_ME_PWSH_EXE_PATH>"
+}
